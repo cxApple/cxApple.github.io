@@ -2,7 +2,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "358UF6MCG5.ai.kaito.kaito",
+                "appID": "358UF6MCG5.ai.kaito.demo",
                 "paths": ["*"]
             }
         ]
