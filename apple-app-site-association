@@ -3,7 +3,7 @@
         "details": [
             {
                 "appID": "358UF6MCG5.ai.kaito.demo",
-                "paths": ["/app/*", "/applink/*", "/index/*"]
+                "paths": ["/app/*", "/applink/*", "/index/*", "/portal/*"]
             }
         ]
     }
